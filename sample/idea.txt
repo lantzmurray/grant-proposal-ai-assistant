@@ -1,0 +1,2 @@
+Project Title: AI-Driven Crop Yield Prediction.
+Objective: To develop machine learning models that predict crop yields based on satellite imagery and soil sensor data to help local farmers optimize water usage.
