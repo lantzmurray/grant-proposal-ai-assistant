@@ -2,6 +2,10 @@
 
 A multi-agent system that assists researchers and nonprofits in drafting grant proposals using local LLM models.
 
+## Screenshot
+
+![GrantProposalAssistant](GrantProposalAssistant.png)
+
 ## Features
 
 - **Multi-Agent Architecture**: Three specialized agents work together to provide comprehensive grant proposal assistance
@@ -71,7 +75,7 @@ The application will open in your browser at `http://localhost:8501`
 1. **Enter Topic**: Describe your research or project topic
 2. **Enter Goals**: Specify your project objectives and outcomes
 3. **Enter Funding Agency**: Select or describe the target funding organization
-4. **Click "Generate Proposal"**: The agents will collaborate to create your proposal
+4. **Click "Run Proposal Team"**: The agents will collaborate to create your proposal
 
 ### Project Structure
 
